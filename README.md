@@ -16,7 +16,7 @@
 
 <div align="center">
   <p>🎓 Second-year Software Engineering student at <strong>NIBM</strong></p>
-  <p>💡 Passionate about <strong>Mobile App Development, Web Development & Cloud Computing</strong></p>
+  <p>💡 Passionate about <strong>Qulaity assurance , Web Development & Mobile App Development</strong></p>
   <p>🌱 Currently mastering <strong>Java, Spring Boot, Python & Firebase</strong></p>
   <p>🔭 Working on <strong><a href="https://github.com/thimathi/BabyCareApp">BabyCareApp</a></strong></p>
   <p>📫 Reach me at <strong>bhanuka.lakmal29@gmail.com</strong></p>
