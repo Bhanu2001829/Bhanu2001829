@@ -69,7 +69,7 @@
 ### 🐍 Contribution Snake Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thimathi/thimathi/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/thimathi/thimathi/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
