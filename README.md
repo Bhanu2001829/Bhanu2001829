@@ -55,25 +55,45 @@
   <img src="https://skillicons.dev/icons?i=arduino,selenium,figma,git,github,gitlab,idea,linux,postman,vscode" alt="languages and frameworks" />
 </div>
 
-## <div align="left"><span class="float">📊 GitHub Stats</span></div>
+📊 GitHub Analytics
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhanu2001829&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu2001829&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak">
+</div>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu2001829&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu2001829&theme=radical&utcOffset=5.5" alt="Coding Activity">
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu2001829&theme=react-dark&hide_border=true&area=true" width="98%" alt="Contribution Graph">
+</div>
+
+🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhanu2001829/Bhanu2001829/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhanu2001829/Bhanu2001829/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhanu2001829/Bhanu2001829/output/github-contribution-grid-snake.svg">
+</picture>
+
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhanu2001829&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+</div>
+
+💼 Featured Projects
+<div align="center">
+Show Image
+</div>
+
+📈 Profile Views
+<div align="center">
+Show Image
+</div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhanu2001829&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanu2001829&theme=radical" alt="GitHub Streak">
+💭 Random Dev Quote
+Show Image
+
+🌟 Thanks for visiting! Let's build something amazing together! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
-
-
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhanu2001829&theme=radical" alt="Coding Activity">
-</div>
-
-### 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhanu2001829/Bhanu2001829/output/snake.svg" alt="Generate Snake Animation" />
-</p>
-
----
-
-
-## <div align="center"><span class="fade">🌟 Thanks for visiting!</span></div>
-
