@@ -1,5 +1,5 @@
 # <div align="center"> <span class="wave">Hello👋, I'm Bhanuka Rajasinghe</span></div>
-<h3 align="center"><span class="shake">Software Engineering Student | QA Enginner | Full Stack Developer</span></h3>
+<h3 align="center"><span class="shake">Software Engineering | QA Enginner | Full Stack Developer</span></h3>
 
 <div align="center">
   <img alt="Coding Banner" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
