@@ -1,5 +1,5 @@
 # <div align="center"> <span class="wave">Hello👋, I'm Bhanuka Rajasinghe</span></div>
-<h3 align="center"><span class="shake">Software Engineer| QA Enginner | Full Stack Developer</span></h3>
+<h3 align="center"><span class="shake"> Software Engineer| QA Enginner | Full Stack Developer</span></h3>
 
 <div align="center">
   <img alt="Coding Banner" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -10,7 +10,7 @@
 ## <div align="center"><span class="bounce">🚀 About Me</span></div>
 
 
-  🎓 Second-year Software Engineering student at <strong>NIBM</strong></p>
+  🎓 Graduated Software Engineering at <strong>NIBM</strong></p>
   💡 Passionate about <strong>Qulaity assurance , Web Development & Mobile App Development</strong></p>
   🌱 Currently mastering <strong>Java, Spring Boot, Python & Firebase</strong></p>
   🔭 Working on <strong>LILY LANKA</a></strong></p>
